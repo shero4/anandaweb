@@ -80,8 +80,8 @@
 			border-color: #fff;
 			.media-body{
 				h4{
-					background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #bc2bff), color-stop(0.15, #bc2bff), color-stop(0.3, #7249fb), color-stop(0.45, #7249fb), color-stop(0.6, #7249fb),color-stop(0.75, #7249fb), color-stop(0.9, #7249fb), color-stop(1, #7249fb) );
-					background-image: gradient( linear, left top, right top, color-stop(0, #bc2bff), color-stop(0.15, #bc2bff), color-stop(0.3, #7249fb), color-stop(0.45, #7249fb), color-stop(0.6, #7249fb),color-stop(0.75, #7249fb), color-stop(0.9, #7249fb), color-stop(1, #7249fb) );
+					background-image: -webkit-gradient( linear, left top, right top, color-stop(0, #97ea9d), color-stop(0.15, #97ea9d), color-stop(0.3, #1f8367), color-stop(0.45, #1f8367), color-stop(0.6, #1f8367),color-stop(0.75, #1f8367), color-stop(0.9, #1f8367), color-stop(1, #1f8367) );
+					background-image: gradient( linear, left top, right top, color-stop(0, #97ea9d), color-stop(0.15, #97ea9d), color-stop(0.3, #1f8367), color-stop(0.45, #1f8367), color-stop(0.6, #1f8367),color-stop(0.75, #1f8367), color-stop(0.9, #1f8367), color-stop(1, #1f8367) );
 					color:transparent;
 					-webkit-background-clip: text;
 					background-clip: text;
@@ -90,5 +90,9 @@
 		}
 	}
 }
+
 /* End Testimonials Area css
+	background-image: -moz-linear-gradient( 180deg, #1f8367 0%, #97ea9d 100%);
+	background-image: -webkit-linear-gradient( 180deg, #1f8367 0%, #97ea9d 100%);
+	background-image: -ms-linear-gradient( 180deg,#1f8367 0%, #97ea9d 100%);
 ============================================================================================ */
