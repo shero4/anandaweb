@@ -24,7 +24,7 @@
 	/* Home Banner Area css
 	============================================================================================ */
 	.home_banner_area .banner_inner {
-		padding: 100px 0px;
+		padding: 120px 0px;
 	}
 	/* End Home Banner Area css
 	============================================================================================ */
@@ -42,9 +42,7 @@
         margin-bottom: 23px;
     }
 	.header_area .navbar {
-		background-image: -moz-linear-gradient( 180deg, #1f8367 0%, #97ea9d 100%);
-	    background-image: -webkit-linear-gradient( 180deg, #1f8367 0%, #97ea9d 100%);
-	    background-image: -ms-linear-gradient( 180deg,#1f8367 0%, #97ea9d 100%);
+		background-color: #1f8367;
 	}
     .navbar-toggler[aria-expanded="false"] span:nth-child(2) {
 		opacity: 1;
