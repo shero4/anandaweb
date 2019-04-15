@@ -88,8 +88,8 @@
                             &:hover{
                                 .nav-link{
 									background-image: -moz-linear-gradient( 180deg, #1f8367 0%, #97ea9d 100%);
-									background-image: -webkit-linear-gradient( 180deg, #1f8367 0%, #97ea9d 100%);
-									background-image: -ms-linear-gradient(180deg, #1f8367 0%, #97ea9d 100%);
+	                                background-image: -webkit-linear-gradient( 180deg, #1f8367 0%, #97ea9d 100%);
+	                                background-image: -ms-linear-gradient( 180deg,#1f8367 0%, #97ea9d 100%);
                                     color: #fff;
                                 }
                             }    

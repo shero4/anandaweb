@@ -42,9 +42,9 @@
         margin-bottom: 23px;
     }
 	.header_area .navbar {
-		background-color: -moz-linear-gradient( 0deg, rgba(188,43,255,.8) 0%, rgba(114,73,251,.8) 100%);
-		background-color: -webkit-linear-gradient( 0deg, rgba(188,43,255,.8) 0%, rgba(114,73,251,.8) 100%);
-		background-color: -ms-linear-gradient( 0deg, rgba(188,43,255,.8) 0%, rgba(114,73,251,.8) 100%);
+		background-image: -moz-linear-gradient( 180deg, #1f8367 0%, #97ea9d 100%);
+	    background-image: -webkit-linear-gradient( 180deg, #1f8367 0%, #97ea9d 100%);
+	    background-image: -ms-linear-gradient( 180deg,#1f8367 0%, #97ea9d 100%);
 	}
     .navbar-toggler[aria-expanded="false"] span:nth-child(2) {
 		opacity: 1;
