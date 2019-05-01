@@ -2,18 +2,20 @@
 ============================================================================================ */
 .video_area{
 	position: relative;
+	width: 800px;
 	text-align: center;
-	margin-top: 65px;
+   margin-top: 65px;
 	margin-bottom: 35px;
+
 	a{
 		position: absolute;
 		top: 50%;
 		left: 50%;
 		transform: translateX(-50%) translateY(-50%);
 	}
+	
 }
-
-
+						 
 
 
 
