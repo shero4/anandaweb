@@ -66,6 +66,7 @@
                             z-index: 3;
                             opacity: 0;
                             transition: all 400ms linear;
+                            
                         }
                         .nav-item{
                             display: block;
@@ -81,6 +82,7 @@
                                 transition: all 150ms linear;
                                 display: block;
                                 margin-right: 0px;
+                               
                             }
                             &:last-child{
                                 border-bottom: none;
@@ -143,7 +145,8 @@
 				.nav{
 					.nav-item{
 						.nav-link{
-							line-height: 70px;
+                            line-height: 70px;
+                           
 						}
 					}
 				}

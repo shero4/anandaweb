@@ -48,6 +48,9 @@
     }
 	.header_area .navbar {
 		background-color: linear-gradient( 180deg, #1f8367 0%, #97ea9d 100%); 
+		background-image: -moz-linear-gradient( 180deg, #1f8367 0%, #97ea9d 100%);
+		background-image: -webkit-linear-gradient( 180deg, #1f8367 0%, #97ea9d 100%);
+		background-image: -ms-linear-gradient( 180deg,#1f8367 0%, #97ea9d 100%);
 	}
     .navbar-toggler[aria-expanded="false"] span:nth-child(2) {
 		opacity: 1;
@@ -190,6 +193,9 @@
 @media (max-width:767px){
 	.home_banner_area {
 		min-height: 500px;
+		background-image: -moz-linear-gradient(180deg, #1f8367 0%, #97ea9d 100%);
+		background-image: -webkit-linear-gradient(180deg, #1f8367 0%, #97ea9d 100%);
+		background-image: -ms-linear-gradient(180deg, #1f8367 0%, #97ea9d 100%);
 	}
 	.home_banner_area .banner_inner {
 		min-height: 500px;
