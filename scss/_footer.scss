@@ -39,7 +39,9 @@
         }
     }
     .sub-btn{
-		background:#1f8367;
+		background-image: -moz-linear-gradient( 90deg, #1f8367 0%, #97ea9d 100%);
+		background-image: -webkit-linear-gradient( 90deg, #1f8367 0%, #97ea9d 100%);
+		background-image: -ms-linear-gradient( 90deg,#1f8367 0%, #97ea9d 100%);
         color: #fff;
         font-weight: 500;
         line-height: 38px;
@@ -145,9 +147,9 @@
 			@include transition;
             &:hover{
                 color: #fff;
-				background-image: -moz-linear-gradient( 180deg, #1f8367 0%, #97ea9d 100%);
-				background-image: -webkit-linear-gradient( 180deg, #1f8367 0%, #97ea9d 100%);
-				background-image: -ms-linear-gradient( 180deg,#1f8367 0%, #97ea9d 100%);
+				background-image: -moz-linear-gradient( 90deg, #1f8367 0%, #97ea9d 100%);
+				background-image: -webkit-linear-gradient( 90deg, #1f8367 0%, #97ea9d 100%);
+				background-image: -ms-linear-gradient( 90deg,#1f8367 0%, #97ea9d 100%);
             }
         }
     }
